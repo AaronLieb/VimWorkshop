@@ -1,0 +1,10 @@
+1. Delete the "useless" function
+2. Remove all "std::" and use namespace std
+3. Change all occurances of "Human" to "Person"
+4. Minify the "names" array to one line
+5. Change the "somePerson" variable to "someGuy"
+6. Change "Starting program..." to "Running code..."
+7. Include <iomanip>
+8. Divide Ben's age by 10 and print out the decimal number with 2 decimal points of precision
+9. Create a comment at the bottom of the file saying "All done!"
+
