@@ -28,7 +28,7 @@ int main() {
     "Manny",
     "Amanda",
     "George",
-    "Mohommad",
+    "Mohammad",
     "Trisha"
   };
 
