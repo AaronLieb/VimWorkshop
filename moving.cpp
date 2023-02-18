@@ -20,6 +20,13 @@
  *
  * ------------------------------------------------------------------
  *
+ *  You can move the viewport (screen) using 
+ *
+ *  CTRL+D to go down
+ *  CTRL+U to go up
+ *
+ * ------------------------------------------------------------------
+ *
  * Most motions in vim can multiplied by putting a number before them
  *
  * Ex) "3j" will move down 3 lines. "5l" will move right 5 characters
